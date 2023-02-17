@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="ethics">
       <header className="App-header">
         <img src="Octocat.png" className="App-logo" alt="logo" />
         <p>
